@@ -24,8 +24,4 @@ Categories and their channels (text + voice)
 
 Channel overwrites for roles
 
-# Inviting Cloner Bot
-
-To invite the bot use this url listed:
-
-- https://discord.com/oauth2/authorize?client_id=1370584760522510367&permissions=268454960&integration_type=0&scope=bot+applications.commands
+# [Invite Bot To Server](https://discord.com/oauth2/authorize?client_id=1370584760522510367&permissions=268454960&integration_type=0&scope=bot+applications.commands)
